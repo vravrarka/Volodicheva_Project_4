@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\bin\Debug\net8.0\ProjectManager.deps.json
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\bin\Debug\net8.0\ProjectManager.dll
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\bin\Debug\net8.0\ProjectManager.pdb
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.AssemblyInfo.cs
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.sourcelink.json
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.dll
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\refint\ProjectManager.dll
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.pdb
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ref\ProjectManager.dll
+C:\Users\User\source\repos\Volodicheva_Project_4\ProjectManager\obj\Debug\net8.0\ProjectManager.csproj.AssemblyReference.cache

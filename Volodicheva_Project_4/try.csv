@@ -1,0 +1,18 @@
+ID Задачи;ID Проекта;Название задачи;Описание задачи;Статус задачи;Дедлайн
+1;1;Matan;Fuckkkk;NotStarted;18.03.2025
+2;1;Matan-2;;InProgress;21.03.2025
+3;2;Help;I don't know what to write there;Done;25.03.2025
+3;2;Help;I don't know what to write there;Done;25.03.2025
+;3;Pohui;Pohui;Notstarted;01.01.2021
+4;;Pohui;Pohui;Notstarted;01.01.2021
+10;3;;Pohui;Notstarted;01.01.2021
+11;3;Pohui;Pohui;;01.01.2021
+12;3;Pohui;Pohui;NotStarted;
+13;3;Pohui;Pohui;Hui;01.01.2022
+14;3;Pohui;Pohui;In progress;01.01.2022
+9;3;Pohui;Pohui;NotStarted;44.05.2022
+4;3;Pohui;Pohui;NotStarted;12.13.2022
+8;3;CHill;At home;Notstarted;12.04.2025
+5;4;SOS;;NotStarted;01.01.2026
+6;4;Watch movie;ALL DAY;InProgress;18.04.2025
+7;3;Study;I ne hochy git v Dubae;Done;22.03.2025
